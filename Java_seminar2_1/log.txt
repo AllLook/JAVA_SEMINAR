@@ -1,0 +1,36 @@
+дек. 08, 2022 4:03:11 AM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 4:03:11 AM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 4:03:11 AM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:38:37 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:38:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:38:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:38:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:38:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:38:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:49:15 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:49:15 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:49:15 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:49:15 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:51:37 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:51:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:51:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:51:38 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
+дек. 08, 2022 7:57:10 PM Java_seminar2_1.logging_op log_ging
+INFO: Sorting current element
